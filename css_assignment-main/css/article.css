@@ -16,7 +16,7 @@ h3 {
   font-weight: bold;
   color: #de2f23;
   letter-spacing: 1px;
-  margin: 0;
+  margin: 0px;
 }
 .article {
   max-width: 900px;
@@ -30,7 +30,7 @@ h3 {
 h1
   {
   font-size: 46px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
 .byline {
   font-weight: bold;
@@ -45,7 +45,7 @@ h1
 .caption {
   color: gray;
   font-size: 14px;
-  margin-top: 0;
+  margin-top: 0px;
 }
 .footer {
   font-family: 'Basier', sans-serif;
